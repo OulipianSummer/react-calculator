@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Caclulator app
+
+This is a simple calculator made using React. This project was created a part of the Front End Development Libraries certification for Free Code Camp.
+
+This caculator can handle basic mathematic operations as well as negative numbers, decimals, and serial calculations.
+
+To view the user stories, tests, and design criteria, please visit this [link](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator).
+
+To view a live deployment of this code, please visit my [codepen](https://codepen.io/OulipianSummer/full/yLqaOKj).
+
+![A simple calculator made using react](screenshot.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
